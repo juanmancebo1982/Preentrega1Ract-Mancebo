@@ -1,0 +1,28 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+   url(https://www.freepik.es/vector-gratis/fondo-estilo-comico-azul-diseno-plano_11685286.htm#query=fondo%20marvel&position=3&from_view=keyword&track=ais&uuid=6a1acff6-5a99-4ce5-a813-36371a294136);
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    margin: 0;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    font-size: 62px;
+    font-weight: bold;
+}
+
+.banner p {
+    font-size: 30px;
+    color: white;
+    opacity: 0.7;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
